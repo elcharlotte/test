@@ -7,3 +7,6 @@
 
 # schalue Berechnungen 3.0
 3+3
+
+# schlaue Berechnugen 4.0
+4+4
